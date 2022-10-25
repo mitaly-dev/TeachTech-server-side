@@ -3,13 +3,14 @@ const cors = require('cors')
 const app = express()
 const port = process.env.PORT || 5000
 app.use(cors())
+const courses = require('./Data/courses.json')
 
 app.get('/',(req,res)=>{
     res.send('iam running in server')
 })
 
 app.get('/courses',(req,res)=>{
-    res.send('course is continue in port')
+    res.send(courses)
 })
 
 app.listen(port,()=>{
