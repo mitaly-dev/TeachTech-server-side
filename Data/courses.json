@@ -5,8 +5,8 @@
       "title": "Software Engineering Fundamentals",
       "lectures": 48,
       "rating": 5,
-      "description": "",
-      "price": 32
+      "description": "Software engineering is a discipline that allows us to apply engineering and computer science concepts in the development and maintenance of reliable, usable, and dependable software. The concept of software engineering was first discussed at the 1968 NATO Science Committee in Germany. There are several areas to focus on within software engineering, such as design, development, testing, maintenance, and management. Software development outside of the classroom is a very complex process, mostly because real-world software is much larger and more complex.The purpose of this course is to present software engineering as a body of knowledge. The course is designed to present software engineering concepts and principles in parallel with the software development life cycle. The course will begin with an introduction to software engineering, giving you a definition of this body of knowledge, as well as a discussion of the main methodologies of software engineering. You will then learn about the Software Development Life Cycle (SDLC), major methodologies followed by software modeling using Unified Modeling Language (UML), a standardized general-purpose modeling language used to create visual models of object-oriented software.",
+      "price": 120
     },
     {
       "id": "6357d3203e40374fbe966f78",
@@ -14,8 +14,8 @@
       "title": "Introduction to Java as a Second Language",
       "lectures": 38,
       "rating": 5,
-      "description": "",
-      "price": 32
+      "description": "Java is among the most popular programming languages out there, mainly because of how versatile and compatible it is. Java can be used for a large number of things, including software development, mobile applications, and large systems development. Knowing Java opens a great deal of doors for you as a developer.Using java programming language we can create distributed applications. RMI(Remote Method Invocation) and EJB(Enterprise Java Beans) are used for creating distributed applications in java. In simple words: The java programs can be distributed on more than one systems that are connected to each other using internet connection. Objects on one JVM (java virtual machine) can execute procedures on a remote JVM.Java supports multithreading. Multithreading is a Java feature that allows concurrent execution of two or more parts of a program for maximum utilisation of CPU.As discussed above, java code that is written on one machine can run on another machine. The platform independent byte code can be carried to any platform for execution that makes java code portable.",
+      "price":130
     },
     {
       "id": "6357d3202461709c45b03100",
@@ -23,8 +23,8 @@
       "title": "Object Oriented Programming in Java. First step",
       "lectures": 45,
       "rating": 5,
-      "description": "",
-      "price": 32
+      "description": "As the name suggests, Object-Oriented Programming or OOPs refers to languages that use objects in programming, they use objects as a primary source to implement what is to happen in the code. Objects are seen by the viewer or user, performing tasks assigned by you. Object-oriented programming aims to implement real-world entities like inheritance, hiding, polymorphism etc. in programming. The main aim of OOP is to bind together the data and the functions that operate on them so that no other part of the code can access this data except that function. Objects communicate with one another by sending and receiving information to each other. A message for an object is a request for execution of a procedure and therefore will invoke a function in the receiving object that generates the desired results. Message passing involves specifying the name of the object, the name of the function and the information to be sent.Now that we have covered the basic prerequisites, we will move on to the 4 pillars of OOPs which are as follows. But, let us start by learning about the different characteristics of an Object-Oriented Programming Language.",
+      "price": 110
     },
     {
       "id": "6357d3206df6309420650d2a",
@@ -32,8 +32,8 @@
       "title": "HTML, CSS, and Javascript for Web Developers",
       "lectures": 35,
       "rating": 5,
-      "description": "",
-      "price": 32
+      "description": "As a web developer, the three main languages we use to build websites are HTML, CSS, and JavaScript. JavaScript is the programming language, we use HTML to structure the site, and we use CSS to design and layout the web page. These days, CSS has become more than just a design language, though.If you are learning web development, you will come across terms like HTML, CSS, and JavaScript. These are often called the building blocks of the Web.These three tools dominate web development. Every library or tool seems to be centered around HTML, CSS, and JS. So if you want to become a web developer, you need to learn them well.You'll also discover that websites are mostly built from these three languages.But you're probably wondering what each one is and what it's really used for. What makes these languages so special and important? And what makes them so ubiquitous that you can’t help but see them in every tutorial and topic based on web development?",
+      "price": 115
     },
     {
       "id": "6357d320acb7042533d840bb",
@@ -41,8 +41,8 @@
       "title": "Introduction to Programming with Python",
       "lectures": 55,
       "rating": 5,
-      "description": "",
-      "price": 32
+      "description": "In this course, you'll learn the fundamentals of the Python programming language, along with programming best practices. You’ll learn to represent and store data using Python data types and variables, and use conditionals and loops to control the flow of your programs. You’ll harness the power of complex data structures like lists, sets, dictionaries, and tuples to store collections of related data. You’ll define and document your own custom functions, write scripts, and handle errors. Lastly, you’ll learn to find and use modules in the Python Standard Library and other third-party libraries.",
+      "price": 100
     },
     {
       "id": "6357d3209a5ddae79931ed4c",
@@ -50,7 +50,7 @@
       "title": "Fundamental blockchain technology",
       "lectures": 58,
       "rating": 5,
-      "description": "",
-      "price": 32
+      "description": "The growing popularity of cryptocurrencies has aroused mainstream interest in blockchain technologies and their possibilities. Increasingly, blockchain is used as a generic term that most people associate with Bitcoin, the cryptocurrency created using the technology. The potential and scope of the application of decentralized protocols have already become so much broader.The Bitcoin blockchain is a global distributed ledger consisting of data blocks sequentially linked in a chain. Each block contains information about the preceding block. The data of blocks is copied and stored on different Bitcoin mining nodes without being bound to one specific server, making the substitution of records impossible.A permanently locked set of rules or “Protocols” governs the flow of data through the distributed network of nodes.",
+      "price": 150
     }
   ]
