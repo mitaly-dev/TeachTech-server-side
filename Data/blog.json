@@ -16,7 +16,7 @@
     },
     {
       "id": "6358d13392df9cbb8ea764bb",
-      "question": "What is Node js?",
+      "question": "What is Node js? How does Node work?",
       "answer": "Node.js is an open source server environment; Node.js is free ; Node.js can generate dynamic page content.Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on a JavaScript Engine and executes JavaScript code outside a web browser, which was designed to build scalable network applications."
     }
   ]
