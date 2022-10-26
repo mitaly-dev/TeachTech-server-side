@@ -1,0 +1,22 @@
+[
+    {
+      "id": "6358d13300d747b7cfd5c688",
+      "question": "what is cors?",
+      "answer": "Cross-origin resource sharing (CORS) is a mechanism that allows restricted resources on a web page to be requested from another domain outside the domain from which the first resource was served."
+    },
+    {
+      "id": "6358d133ad196d296f7e7b5c",
+      "question": "Why are you using firebase? What other options do you have to implement authentication?",
+      "answer": "Firebase helps you develop high-quality apps, grow your user base, and earn more money. Each feature works independently, and they work even better together.Usually, authentication by a server entails the use of a user name and password. Other ways to authenticate can be through cards, retina scans, voice recognition, and fingerprints."
+    },
+    {
+      "id": "6358d133dfdf767858390d17",
+      "question": "How does the private route work?",
+      "answer": "The private route component is similar to the public route, the only change is that redirect URL and authenticate condition. If the user is not authenticated he will be redirected to the login page and the user can only access the authenticated routes If he is authenticated (Logged in)."
+    },
+    {
+      "id": "6358d13392df9cbb8ea764bb",
+      "question": "What is Node js?",
+      "answer": "Node.js is an open source server environment; Node.js is free ; Node.js can generate dynamic page content.Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on a JavaScript Engine and executes JavaScript code outside a web browser, which was designed to build scalable network applications."
+    }
+  ]
